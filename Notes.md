@@ -1,0 +1,16 @@
+- Downloaded Inkscape
+- Saved pdf of graph, and imported it into inkscape using default settings.
+- Selected object -> ungroup, seems like it understood that it was looking at a bar graph and separated every component?
+- I was not able to follow the exact steps to rotate the number on the Y-axis. But I managed to do it by selecting 'edit paths by nodes', selecting the number, then reselecting 'select and transform objects' then rotating it with the arrows at the top left.
+- I realized what I did wrong in the last step, was that you have to really give it a good bunch of clicks until it selects the specific piece you are looking for. I never concidered quintuple-clicking.
+- Now that I knew that, selecting a specific bar from the graph and changing its color was very simple.
+- Saved it, selected all in all layers, and I could not find the option of export bitmap, but I was able to find the option export png image, which is the same thing, and it saved a png image of my creation to my folder.
+- Downloaded the default poster from the github.
+- I had a good bit of fun playing around in inkscape turning my favorite essay into a poster, so I forgot to take notes of the changes I made while doing it.
+- I was mostly playing around will of the things I could do, but the idea of my presentation is sound. What works well in my opinion, is that I layed it out to start in the middle, and circle outwards more and more.
+- The title is smack in the middle of the poster, then in the outside spaces, I put the relevant information I want you to know before going further into it, and then elaborated on my two main points on the outer corners.
+- What didn't work well is how I actually did it, I honestly did not want to waste too much time doing this, so some of the text and image wrapping looks messy. I think this would have looked good if I spent a lot more time on it.
+- Audacity is incapable of detecting my microphone, no matter where I plug it in or what settings I use, so I spoke with Dr. Graham and I was given the OK to use anchor.
+- It detected my microphone immediately, and I got to recording. The podcast ran a bit long, but I still added in an intro and outro theme just for fun, to play around with the website's capabilities.
+- LINK TO PODCAST: https://anchor.fm/hordan-dison/episodes/Things-That-Have-Driven-Me-Nuts-About-Learning-Digital-History-ef0jse
+- 
