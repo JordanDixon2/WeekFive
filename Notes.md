@@ -14,5 +14,6 @@
 - It detected my microphone immediately, and I got to recording. The podcast ran a bit long, but I still added in an intro and outro theme just for fun, to play around with the website's capabilities.
 - LINK TO PODCAST: https://anchor.fm/hordan-dison/episodes/Things-That-Have-Driven-Me-Nuts-About-Learning-Digital-History-ef0jse
 - The quick static site exercise was great because I learned a lot very quickly.
+- LINK TO STATIC PAGE RESPOSITORY: https://github.com/JordanDixon2/JordanDixon2.github.io
 - I made the files, chose a theme, and then I just messed around changing some text and then adding my own gif for fun.
 - LINK TO STATIC WEBSITE: https://jordandixon2.github.io/
